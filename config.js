@@ -15,13 +15,13 @@ global.creator = "⟠ 𝐃𝐑𝚺𝐗 ⿻ 𝐂𝐋͢𝐢𝚵𝐍͢𝐓 々"
 global.author = "𝐉𝐄𝐒𝐓𝐄𝐑 𝐌𝐃\n\n+254102074064"
 global.wm = "𝐉𝐄𝐒𝐓𝐄𝐑 𝐌𝐃"
 global.syt = "https://www.youtube.com/@SanjayaAds"
-global.sgc = "https://chat.whatsapp.com/BhLOaPSL3SKCw9QAnudLDw"
+global.sgc = "https://chat.whatsapp.com/CHOR0WkQk8N6ZrhqQwnLqm"
 global.idgc = "120363250058335630@g.us"
 global.email = "OwnerKuu@gmail.com"
 global.sig = "https://Instagram.com/@Jayy_yete"
 global.myweb = "https://shoplinks.to/AiBotzzSH"
 global.footer_text = "© Jester-MD"
-global.owner = ['254102074064']
+global.owner = ['2349136474361']
 global.gifin = "https://telegra.ph/file/0cf1c5039a2be1b66ef15.mp4"
 global.thumb = "https://telegra.ph/file/6b25dc6f38b32804d7e59.jpg"
 global.thumb2 = "https://telegra.ph/file/c74dda31793574f84070e.jpg"
@@ -60,13 +60,13 @@ global.APIKeys = {
 }
 
 //=== Gak Tau 🐦
-global.pairingNumber = "254102074064"
+global.pairingNumber = "2349136474361"
 // Nomor whatsapp bot lu
 global.prefix = ['-_-'] 
 // Jangan diubah
 global.tekspushcontact = "Izin Push" 
 // Terserah
-global.typemenu = "v6"
+global.typemenu = "v2"
 // Ini type menu nya
 // v1 - v2 - v3 - v4 - v5 - v6
 global.typeallmenu = "v1"
